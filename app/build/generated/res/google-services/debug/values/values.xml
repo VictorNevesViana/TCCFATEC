@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">231207017129-9pejogfu63hdg0hrdt1ljmtk3etmh0gq.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://tccfatec-2e3fe.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">231207017129</string>
+    <string name="google_api_key" translatable="false">AIzaSyDqxhxQ-mmQymMdWPMqpS9G7vt-k1lFexA</string>
+    <string name="google_app_id" translatable="false">1:231207017129:android:2c201e107d0f7d04</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDqxhxQ-mmQymMdWPMqpS9G7vt-k1lFexA</string>
+    <string name="google_storage_bucket" translatable="false">tccfatec-2e3fe.appspot.com</string>
+    <string name="project_id" translatable="false">tccfatec-2e3fe</string>
+</resources>

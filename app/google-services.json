@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "231207017129",
+    "firebase_url": "https://tccfatec-2e3fe.firebaseio.com",
+    "project_id": "tccfatec-2e3fe",
+    "storage_bucket": "tccfatec-2e3fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231207017129:android:2c201e107d0f7d04",
+        "android_client_info": {
+          "package_name": "tcc.com.br.tccfatec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231207017129-9pejogfu63hdg0hrdt1ljmtk3etmh0gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqxhxQ-mmQymMdWPMqpS9G7vt-k1lFexA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

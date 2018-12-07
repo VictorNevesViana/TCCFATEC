@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TccFatec</string>
+    <string name="login_name">Login</string>
+    <string name="signUp_name">Cadastro</string>
+    <string name="text_ad">Anuncios</string>
+    <string name="text_donate">Doar</string>
+    <string name="text_login">Login</string>
+</resources>
